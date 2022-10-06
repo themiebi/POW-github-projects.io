@@ -9,7 +9,6 @@
   
 <p>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, glad you are here. I'm Timiebi Oyinpere, and here you'll find something about me, still a work in progress though, CHEERS:</h1>
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, glad you are here. I'm Timiebi Oyinpere, and here you'll find something about me, still a work in progress though, CHEERS:</h1>
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 </p>
 
