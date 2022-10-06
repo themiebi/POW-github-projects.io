@@ -16,11 +16,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiO-DevOps&theme=vue&show_icons=true" alt="My github stats" />
 </p>
 
-- 👋 Hi, I’m @TiO-DevOps
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/TiO-DevOps" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> <a href="https://twitter.com/TiO_Tweets" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 <!---
 TiO-DevOps/TiO-DevOps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
