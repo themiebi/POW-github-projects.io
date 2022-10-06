@@ -16,6 +16,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiO-DevOps&theme=vue&show_icons=true" alt="My github stats" />
 </p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiO-DevOps&theme=vue&show_icons=true" alt="My github stats" />
+</p>
+
 <!--<p align="center">
   <a href="https://sourcerer.io/TiO-DevOps" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="100" width="100" /></a>
 </p>-->
