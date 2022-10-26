@@ -31,8 +31,11 @@
   <a href="https://www.linkedin.com/in/timiebi-oyinpere-25925a8b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://www.instagram.com/TiO_Socials" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
+<<<<<<< HEAD
 
 <!---
 TiO-DevOps/TiO-DevOps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---
+=======
+>>>>>>> b12bb4e70d606f5998a54e16e46db7752020f005
