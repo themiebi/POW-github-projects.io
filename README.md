@@ -3,11 +3,8 @@
   ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
   ![](https://komarev.com/ghpvc/?username=TiO-DevOps&color=dc143c)
   ![](https://img.shields.io/static/v1?label=Readme&message=Profile&color=blue?style=plastic&logo=appveyor)
-  <a href="https://sourcerer.io/TiO-DevOps"><img src="https://img.shields.io/badge/C-199%20commits-orange.svg" alt=""></a>
-  <a href="https://sourcerer.io/TiO-DevOps"><img src="https://img.shields.io/badge/Python-6%20commits-white.svg" alt=""></a> 
-</p>
-
-  
+ </p>
+ 
 <p>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, glad you are here. I'm Timiebi Oyinpere, this is me learning, by trying out Tech, I am open to learning. Kindly guide me to resources that can help. CHEERS:</h1>
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
