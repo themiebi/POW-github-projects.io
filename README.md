@@ -20,6 +20,7 @@
 
 <!--<p align="center">
   <a href="https://sourcerer.io/TiO-DevOps" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="100" width="100" /></a>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>-->
 
 <h3>Where to find me</h3>
