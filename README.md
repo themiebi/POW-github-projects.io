@@ -21,7 +21,7 @@
   <img height="160em" 
        src="https://github-readme-stats.vercel.app/api?username=TiO-DevOps&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   <img height="160em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DevOps&layout=compact&theme=react" /> 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DevOps&layout=compact&theme=vue" /> 
 </p>
 
 <p align="center">
