@@ -26,8 +26,8 @@
  <h3>Skills:</h3>
  <div style="display: inline_block">
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img align="center" alt="c" src="https://img.shields.io/badge/C-276DC2?style=for-the-badge&logo=c&logoColor=grey" />
 
+##
 <h3>Where to find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/timiebi-oyinpere-25925a8b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
