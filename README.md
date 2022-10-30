@@ -1,7 +1,6 @@
 <p align="center">
-  
   ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-  ![](https://komarev.com/ghpvc/?username=TiO-DevOps&color=black)
+  ![](https://komarev.com/ghpvc/?username=TiO-DevOps&color=dc143c)
  </p>
  
 <p>
@@ -17,7 +16,7 @@
 </p>
 
 <!--<p align="center">
-  <a href="https://sourcerer.io/TiO-DevOps" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="100" width="100" /></a>
+  <a href="https://sourcerer.io/TiO-DevOps" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="100" width="500" /></a>
 </p>-->
 
 <h3>Where to find me</h3>
