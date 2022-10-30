@@ -2,7 +2,6 @@
   
   ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
   ![](https://komarev.com/ghpvc/?username=TiO-DevOps&color=dc143c)
-  ![](https://img.shields.io/static/v1?label=Readme&message=Profile&color=blue?style=plastic&logo=appveyor)
  </p>
  
 <p>
