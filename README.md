@@ -36,12 +36,12 @@
 </p>
 
 ##
- <p>Skills:</p>
+ <h1>Skills:</h1>
  <p style="display: inline_block">
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 ##
-<h3>Where to find me</h3>
+<h1>Where to find me</h1>
 <p>
   <a href="https://www.linkedin.com/in/timiebi-oyinpere-25925a8b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://www.instagram.com/TiO_Socials" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
