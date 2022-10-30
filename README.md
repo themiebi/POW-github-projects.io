@@ -25,8 +25,11 @@
 </p>
 
 <p align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TiO-DevOps" alt="TiO-DevOps" /></p>
- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiO-DevOps&theme=github" /></p>
+ <img height="160em" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=TiO-DevOps" alt="TiO-DevOps" />
+ <img height="160em" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiO-DevOps&theme=github" />
+</p>
 
 ##
  <p>Skills:</p>
