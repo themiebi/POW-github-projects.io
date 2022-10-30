@@ -26,7 +26,7 @@
  <h3>Skills:</h3>
  <div style="display: inline_block">
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img align="center" alt="c" src="https://img.shields.io/badge/C-306166-6?style=for-the-badge&logo=c&logoColor=blue" />
+<img align="center" alt="c" src="https://img.shields.io/badge/C-276DC2?style=for-the-badge&logo=c&logoColor=celticblue" />
 
 <h3>Where to find me</h3>
 <p>
