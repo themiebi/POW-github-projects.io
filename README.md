@@ -6,12 +6,7 @@
 
 ##
 <h1 align="center">
-  Hi 👋, I'm Timiebi Oyinpere
-</h1>
-
-##
-<h1 align="center">
-  I'm learning first
+  Hi 👋, I'm Timiebi Oyinpere, from Nigeria, this is all new to me.
 </h1>
 
 ##
