@@ -3,11 +3,16 @@
   ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
   ![](https://komarev.com/ghpvc/?username=TiO-DevOps&color=dc143c)
 </p>
- 
+
+##
 <h1 align="center">
   Hi 👋, I'm Timiebi Oyinpere
 </h1>
 
+##
+<h1 align="center">
+  I'm learning first
+</h1>
 ##
 <p align="center">
   <img align="center" alt="Coding" width="500" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
