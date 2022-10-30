@@ -6,12 +6,10 @@
   ![](https://komarev.com/ghpvc/?username=TiO-DevOps&color=dc143c)
  </p>
  
-<h1 align="center">Hi 👋, I'm Timiebi Oyinpere</h1>           
-<img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TiO-DevOps&label=Profile%20views&color=0e75b6&style=flat" alt="TiO-DevOps" /> </p>
+<h1 align="center">Hi 👋, I'm Timiebi Oyinpere</h1>
+<img align="center" alt="Coding" width="800" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
+</p>
 
-
- 
 <p align="center">
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
     Hey, glad you are here. I'm Timiebi Oyinpere, this is me learning, by trying out Tech, I am open to learning. 
