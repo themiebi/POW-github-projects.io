@@ -1,30 +1,28 @@
-<img src="https://github.com/ValentineFernandes/TiO-DevOps/blob/main/Portfolio/7BC99849-E84A-4BE6-90AE-BC06D2C077CF.jpeg">
-
 <p align="center">
   
   ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
   ![](https://komarev.com/ghpvc/?username=TiO-DevOps&color=dc143c)
- </p>
+</p>
  
-<h1 align="left">Hi 👋, I'm Timiebi Oyinpere</h1>
+<p align="left">Hi 👋, I'm Timiebi Oyinpere>
 <img align="center" alt="Coding" width="500" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 </p>
 
 ##
-<div align="center">
+<p align="center">
   <a href="https://github.com/TiO-DevOps">
-</div>
- Cyber Yellow (#
- <div>
+</p>
+
+ <p>
   <img height="160em" 
        src="https://github-readme-stats.vercel.app/api?username=TiO-DevOps&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   <img height="160em" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DevOps&layout=compact&theme=react" /> 
-</div>
+</p>
 
 ##
- <h3>Skills:</h3>
- <div style="display: inline_block">
+ <p>Skills:</p>
+ <p style="display: inline_block">
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 ##
