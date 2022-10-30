@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiO-DevOps&theme=vue&show_icons=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiO-DevOps&theme=react&show_icons=true" alt="My github stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DevOps&layout=compact&theme=vue&langs_count=6" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DevOps&layout=compact&theme=react&langs_count=6" alt="My github stats" />
 </p>
 
 <!--<p align="center">
