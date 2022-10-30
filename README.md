@@ -4,8 +4,10 @@
   ![](https://komarev.com/ghpvc/?username=TiO-DevOps&color=dc143c)
  </p>
  
-<p>
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, glad you are here. I'm Timiebi Oyinpere, this is me learning, by trying out Tech, I am open to learning. Kindly guide me to resources that can help. CHEERS:</h1>
+<p align="center">
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+    Hey, glad you are here. I'm Timiebi Oyinpere, this is me learning, by trying out Tech, I am open to learning. 
+    Kindly guide me to resources that can help. CHEERS:</h1>
 </p>
 
 <p align="center">
