@@ -21,14 +21,14 @@
   <img height="160em" 
        src="https://github-readme-stats.vercel.app/api?username=TiO-DevOps&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   <img height="160em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DevOps&layout=compact&theme=vue" /> 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DevOps&layout=compact&theme=react" /> 
 </p>
 
 <p align="center">
  <img height="160em" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=TiO-DevOps" alt="TiO-DevOps" />
  <img height="160em" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiO-DevOps&theme=github" />
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiO-DevOps&theme=react" />
 </p>
 
 ##
