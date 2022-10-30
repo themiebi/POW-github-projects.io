@@ -4,8 +4,12 @@
   ![](https://komarev.com/ghpvc/?username=TiO-DevOps&color=dc143c)
 </p>
  
-<p align="center">Hi 👋, I'm Timiebi Oyinpere</p>
-<img align="center" alt="Coding" width="500" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
+<p align="center">
+  Hi 👋, I'm Timiebi Oyinpere
+</p>
+
+<p align="center">
+  <img align="center" alt="Coding" width="500" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 </p>
 
 ##
