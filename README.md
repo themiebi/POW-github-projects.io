@@ -9,14 +9,17 @@
     Hey, glad you are here. I'm Timiebi Oyinpere, this is me learning, by trying out Tech, I am open to learning. 
     Kindly guide me to resources that can help. CHEERS:</h1>
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiO-DevOps&theme=react&show_icons=true" alt="My github stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DevOps&layout=compact&theme=react&langs_count=6" alt="My github stats" />
-</p>
+---
+<div align="center">
+  <a href="https://github.com/oleandropaiva">
+</div>
+ 
+ <div>
+  <img height="160em" 
+       src="https://github-readme-stats.vercel.app/api?username=oleandropaiva&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="160em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleandropaiva&layout=compact&theme=react" /> 
+</div>
 
 <h3>Where to find me</h3>
 <p>
