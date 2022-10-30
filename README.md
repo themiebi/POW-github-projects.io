@@ -4,8 +4,8 @@
   ![](https://komarev.com/ghpvc/?username=TiO-DevOps&color=dc143c)
 </p>
  
-<p align="center">
-  ### Hi 👋, I'm Timiebi Oyinpere
+<p align="left">
+  Hi 👋, I'm Timiebi Oyinpere
 </p>
 
 <p align="center">
@@ -23,6 +23,12 @@
   <img height="160em" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DevOps&layout=compact&theme=react" /> 
 </p>
+
+<p align="center>
+  <img height="160cm"
+       src="https://github-readme-streak-stats.vercel.app/api?username=TiO-DevOps" alt="TiO-DevOps" />
+ </p>
+
 
 ##
  <p>Skills:</p>
