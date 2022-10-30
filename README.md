@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DevOps&layout=compact&theme=react&langs_count=6" alt="My github stats" />
 </p>
 
-<!--<p align="center">
+<p align="center">
   <a href="https://sourcerer.io/TiO-DevOps" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="100" width="500" /></a>
 </p>-->
 
