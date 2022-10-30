@@ -25,8 +25,8 @@
 </p>
 
 <p align="center>
-  <img height="160cm"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes" alt="valentinefernandes" /></p>
+       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes" alt="valentinefernandes" /></p>
+
 
 
 ##
