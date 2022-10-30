@@ -4,22 +4,22 @@
   ![](https://komarev.com/ghpvc/?username=TiO-DevOps&color=dc143c)
 </p>
  
-<p align="left">
+<h1 align="center">
   Hi 👋, I'm Timiebi Oyinpere
-</p>
+</h1>
 
 ##
 <p align="left">
-  <img align="left" alt="Coding" width="500" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
+  <img align="center" alt="Coding" width="500" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 </p>
 
 ##
-<p align="left">
+<p align="center">
   <a href="https://github.com/TiO-DevOps">
 </p>
 
 ##
-<p align="left">
+<p align="center">
   <img height="160em" 
        src="https://github-readme-stats.vercel.app/api?username=TiO-DevOps&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   <img height="160em" 
@@ -27,7 +27,7 @@
 </p>
 
 ##
-<p align="left">
+<p align="center">
  <img height="160em" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=TiO-DevOps" alt="TiO-DevOps" />
  <img height="160em" 
