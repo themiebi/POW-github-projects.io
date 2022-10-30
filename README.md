@@ -10,6 +10,7 @@
     Kindly guide me to resources that can help. CHEERS:</h1>
 </p>
 
+##
 <div align="center">
   <a href="https://github.com/TiO-DevOps">
 </div>
@@ -20,6 +21,12 @@
   <img height="160em" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DevOps&layout=compact&theme=react" /> 
 </div>
+
+##
+ <h3>Skills:</h3>
+ <div style="display: inline_block">
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="center" alt="c" src="https://img.shields.io/badge/C-306166-6?style=for-the-badge&logo=c&logoColor=blue" />
 
 <h3>Where to find me</h3>
 <p>
