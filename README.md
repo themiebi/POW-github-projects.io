@@ -7,7 +7,6 @@
  
 <p>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, glad you are here. I'm Timiebi Oyinpere, this is me learning, by trying out Tech, I am open to learning. Kindly guide me to resources that can help. CHEERS:</h1>
-  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 </p>
 
 <p align="center">
