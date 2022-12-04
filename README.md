@@ -1,7 +1,7 @@
 <p align="center">
   
   ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-  ![](https://komarev.com/ghpvc/?username=TiO-DevOps&color=dc143c)
+  ![](https://komarev.com/ghpvc/?username=TiO-DataOps&color=dc143c)
 </p>
 
 ##
@@ -16,23 +16,23 @@
 
 
 <p align="center">
-  <a href="https://github.com/TiO-DevOps">
+  <a href="https://github.com/TiO-DataOps">
 </p>
 
 ##
 <p align="center">
   <img height="160em" 
-       src="https://github-readme-stats.vercel.app/api?username=TiO-DevOps&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+       src="https://github-readme-stats.vercel.app/api?username=TiO-DataOps&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   <img height="160em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DevOps&layout=compact&theme=react" /> 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiO-DataOps&layout=compact&theme=react" /> 
 </p>
 
 ##
 <p align="center">
  <img height="160em" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=TiO-DevOps" alt="TiO-DevOps" />
+      src="https://github-readme-streak-stats.herokuapp.com/?user=TiO-DevOps" alt="TiO-DataOps" />
  <img height="160em" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiO-DevOps&theme=github" />
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiO-DataOps&theme=github" />
 </p>
 
 ##
@@ -47,7 +47,7 @@
 </p>
 
 <!---
-TiO-DevOps/TiO-DevOps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TiO-DataOps/TiO-DataOps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---
 =======
