@@ -30,8 +30,6 @@
 ##
 <p align="center">
  <img height="160em" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=TiO-DataOps" alt="TiO-DataOps" />
- <img height="160em" 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiO-DataOps&theme=github" />
 </p>
 
